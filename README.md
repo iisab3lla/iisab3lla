@@ -1,12 +1,12 @@
 <h1>Hello There! <img src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif" min-width="55px" max-width="55px" width="55px"></h1> 
 
-<img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
-  ⋆.˚ My name is Isabella!<br>
-   › I like to play video games, study and test cooking recipes, which are things I usually do in my spare time.<br>
-   › Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br>
-   › In my previous jobs I gained experience in customer service and administrative assistant<br>
+  ⋆.˚ My name is Isabella!<br><br>
+   › I like to play video games, study and test cooking recipes, which are things I usually do in my spare time.<br><br>
+   › Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br><br>
+   › In my previous jobs I gained experience in customer service and administrative assistant<br><br>
    › I'm currently beginning to improve my knowledge of HTML and CSS.
  </p>
  
