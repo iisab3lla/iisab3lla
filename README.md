@@ -1,10 +1,10 @@
-<h1>Hello!</h1>
+<h1>Hello!</h1> <img src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
 
 <img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   My name is Isabella!<br>
-  Playing video games, studying and testing cooking recipes are things I usually do in my spare time.<br>
+  I like to play video games, study and test cooking recipes, which are things I usually do in my spare time.<br>
   Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br>
   In my previous jobs I gained experience in customer service and administrative assistant<br>
   I'm currently beginning to improve my knowledge of HTML and CSS.<br>
