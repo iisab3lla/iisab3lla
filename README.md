@@ -1,6 +1,6 @@
 <h1>Hello, developers!</h1>
 
-<img src="https://cdn.discordapp.com/attachments/1207324010485121044/1210399965160153170/marin-marin-kitagawa.gif?ex=65ea6bcf&is=65d7f6cf&hm=b2b9620651d3e615fb99d20564d81f00ce6e4d2c330bb367085ff1302445836a&" alt="ilustração de um computador](https://i.kym-cdn.com/photos/images/original/002/427/222/dd0.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   My name is Isinha foguenta!<br>
