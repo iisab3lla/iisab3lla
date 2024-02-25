@@ -1,4 +1,4 @@
-<h1>Hello!</h1> <img src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
+<h1>Hello!</h1> <img src="https://www.pngfind.com/pngs/m/562-5627002_molang-kawaii-and-drawings-awesome-job-emoji-gif.png">
 
 <img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
