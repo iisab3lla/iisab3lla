@@ -1,14 +1,13 @@
-<h1>Hello, developers!</h1>
+<h1>Hello!</h1>
 
 <img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   My name is Isabella!<br>
-  I usually program, play and study.<br>
-  I'm currently studying Web Full Stack Developer at Growdev.<br>
-  I've had experience in the health sector, but nowadays I'm in the IT field, improving myself more and more with studies and practices.<br>
-  My favorite languages are JavaScript and TypeScript.<br>
-  I'm currently studying html and a bit of css.<br>
+  Playing video games, studying and testing cooking recipes are things I usually do in my spare time.<br>
+  Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br>
+  In my previous jobs I gained experience in customer service and administrative assistant<br>
+  I'm currently beginning to improve my knowledge of HTML and CSS.<br>
  </p>
  
 <br>
@@ -18,8 +17,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>&nbsp;&nbsp;
 </div>
 
