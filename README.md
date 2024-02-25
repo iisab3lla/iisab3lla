@@ -3,7 +3,8 @@
 <img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  ⋆.˚ My name is Isabella!<br><br>
+    <br>
+   ⋆.˚My name is Isabella!⋆.˚<br><br>
    › I like to play video games, study and test cooking recipes, which are things I usually do in my spare time.<br><br>
    › Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br><br>
    › In my previous jobs I gained experience in customer service and administrative assistant<br><br>
