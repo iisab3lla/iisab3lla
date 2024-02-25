@@ -4,10 +4,10 @@
 
 <p align="left">
   ⋆.˚ My name is Isabella!<br>
-  I like to play video games, study and test cooking recipes, which are things I usually do in my spare time.<br>
-  Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br>
-  In my previous jobs I gained experience in customer service and administrative assistant<br>
-  I'm currently beginning to improve my knowledge of HTML and CSS.<br>
+   › I like to play video games, study and test cooking recipes, which are things I usually do in my spare time.<br>
+   › Recently graduated from high school, I'm looking to learn about programming in order to enter the IT field.<br>
+   › In my previous jobs I gained experience in customer service and administrative assistant<br>
+   › I'm currently beginning to improve my knowledge of HTML and CSS.<br>
  </p>
  
 <br>
