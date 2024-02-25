@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  My name is Isinha foguenta!<br>
+  My name is Isabella!<br>
   I usually program, play and study.<br>
   I'm currently studying Web Full Stack Developer at Growdev.<br>
   I've had experience in the health sector, but nowadays I'm in the IT field, improving myself more and more with studies and practices.<br>
