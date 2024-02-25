@@ -1,4 +1,4 @@
-<h1>Hello There! <img src="https://media.tenor.com/P7jEYcSrolQAAAAi/miracle-nikki-momo.gif" min-width="60px" max-width="60px" width="60px"></h1> 
+<h1>Hello There! <img src="https://media.tenor.com/P7jEYcSrolQAAAAi/miracle-nikki-momo.gif" min-width="40px" max-width="40px" width="40px"></h1> 
 
 <img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
