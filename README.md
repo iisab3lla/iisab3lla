@@ -1,6 +1,6 @@
 <h1>Hello There! <img src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif" min-width="55px" max-width="55px" width="55px"></h1> 
 
-<img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.tenor.com/PjMOB4t9rEgAAAAi/my-dress-up-darling-anime.gif" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left">
   My name is Isabella!<br>
