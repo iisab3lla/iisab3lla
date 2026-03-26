@@ -22,15 +22,7 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
 </div>
 
-<h2>❀ Estatísticas</h2>
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iisab3lla&show_icons=true"/>
-</div>
-
 <br><br>
-
-<h2>❀ Atividade</h2>
 
 <picture>
   <source
