@@ -1,4 +1,4 @@
-<h1>°⋆.ೃ:･ Olá, devs! ⋆˚࿔</h1>
+<h1>.ೃ:･ Olá, devs! ⋆˚࿔</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
 
