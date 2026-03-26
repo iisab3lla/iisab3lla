@@ -12,7 +12,7 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
 <h2>❀ Tecnologias</h2>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
@@ -25,8 +25,7 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
 <h2>❀ Estatísticas</h2>
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iisab3lla&show_icons=true"/>
 </div>
 
 <br><br>
