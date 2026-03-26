@@ -9,7 +9,7 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
 
 <br>
 
-<h2>❀ Tecnologias</h2>
+<h2> 𓈒    ୭ৎ Tecnologias</h2>
 
 <div>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;"/>
