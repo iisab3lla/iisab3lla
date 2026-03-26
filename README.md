@@ -9,7 +9,7 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
 
 <br>
 
-<h2> 𓈒    ୭ৎ Tecnologias</h2>
+<h2> ٠࣪⭑ Tecnologias</h2>
 
 <div>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;"/>
@@ -39,7 +39,7 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
   />
 </picture>
 
-<h2>❀ Contato</h2>
+<h2>٠࣪⭑ Contato</h2>
 
 <a href="https://www.linkedin.com/in/isabella-peroli-445950357/">
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
