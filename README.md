@@ -12,14 +12,14 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
 <h2>❀ Tecnologias</h2>
 
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" height="30" style="filter: grayscale(100%) brightness(0.8);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" style="filter: brightness(0);"/>
 </div>
 
 <br><br>
