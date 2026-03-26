@@ -12,14 +12,14 @@ Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnolog
 <h2>❀ Tecnologias</h2>
 
 <div>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco&logoColor=white" style="pointer-events: none;"/>
 </div>
 
 <br><br>
