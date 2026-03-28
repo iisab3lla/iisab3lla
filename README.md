@@ -7,6 +7,7 @@
 Atualmente estou me dedicando aos estudos e me aprofundando no mundo da tecnologia, com interesse nas áreas de dados e desenvolvimento web. Busco aprender continuamente, aprofundar meus conhecimentos e evoluir através de projetos práticos e desafios reais.
 </p>
 
+<br>  
 
 <h2> ٠࣪⭑ Tecnologias</h2>
 
