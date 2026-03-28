@@ -1,6 +1,6 @@
 <h1>˖ ֹ੭୧ Olá, devs! ⊹ ࣪ ⑅</h1>
 
-<img src="https://i.imgur.com/y9vASGT.png" width="250px" align="right">
+<img src="https://i.imgur.com/L7xgWkO.png" width="250px" align="right">
 
 <p>
 ❀ Me chamo Isabella <br>
