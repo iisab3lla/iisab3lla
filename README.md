@@ -1,5 +1,3 @@
-<p align="center"> Welcome to my Github! </p>
-
 <img src = "teste1.jpg"/>
  
 <p align="center">
