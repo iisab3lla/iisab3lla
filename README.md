@@ -1,3 +1,5 @@
+<h2 align="center"> <em>Welcome to my Github! </em></h2>
+
 <img src = "githubanner.jpg" align="center"/>
  
 <p align="center">
@@ -22,10 +24,10 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Systems Analysis and Development Student </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Always learning new technologies </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Focused on Data Analysis </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Web Development </b></em><br/>
+   <img src="/assets/ads.png" width="15"/>   <em><b> Systems Analysis and Development Student </b></em> <br/>
+   <img src="/assets/tech.png" width="15"/>   <em><b> Always learning new technologies </b></em><br/>
+   <img src="/assets/data.png" width="15"/>   <em><b> Focused on Data Analysis </b></em><br/>
+   <img src="/assets/computer.png" width="15"/>   <em><b> Web Development </b></em><br/>
 </p>
 
 <br/>
