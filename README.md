@@ -1,4 +1,4 @@
-<img src = "githubanner.jpg"/>
+<img src = "githubanner.jpg" align="center"/>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/isabella-peroli-445950357/" target="_blank">
