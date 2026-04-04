@@ -1,6 +1,6 @@
 <p align="center"> Welcome to my Github! </p>
 
-<img src="https://i.imgur.com/xbq97Yd.jpeg](https://media1.tenor.com/m/uAyivvIwhzwAAAAd/tlt.gif" />
+<img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAd/tlt.gif" />
  
 <p align="center">
   <a href="https://www.linkedin.com/in/isabella-peroli-445950357/" target="_blank">
