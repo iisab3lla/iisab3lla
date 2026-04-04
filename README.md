@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to my Github! </h2>
+<p align="center"> Welcome to my Github! </p>
 
 <img src = "githubanner.jpg" align="center"/>
  
